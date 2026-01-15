@@ -1,0 +1,57 @@
+ANIL BK
+Third Year Computer Engineering Student
+Pulchowk, Lalitpur | 9867525552 | abk33916@gmail.com
+LinkedIn: www.linkedin.com/in/anilbk1 | GitHub: https://github.com/anilbk10
+
+APPROACH
+I focus on creating simple, efficient, and user-friendly solutions. I use modern tools like the MERN stack to build applications that are both functional and visually appealing.
+
+EDUCATION
+Pulchowk Campus, Lalitpur — Bachelors in Computer Engineering (2023 - Present)
+Currently pursuing a Bachelor's Degree in Computer Engineering
+
+Siddhartha Secondary School, Butwal — +2 (2020 - 2022)
+Completed +2 level with Computer Science as the elected subject along with Physics, Chemistry and Maths
+
+Sarada Secondary School, Arghakhanchi — Schooling (2007 - 2020)
+Completed schooling from Nursery till Grade ten.
+
+PROJECTS
+
+Hotel Booking Web App
+A full stack project using the MVC framework. Web application designed to streamline the process of listing and reviewing hotels. Users can explore various hotel listings, leave reviews, and interact with other users.
+Tech: Node.js, Express.js, MongoDB, Passport.js
+Link: https://hotelhub-86n8.onrender.com/listings
+
+Nepal Forms Assistant
+Developed a Chrome extension that automates the filling of Nepali government forms by utilizing stored user data. The project leverages JavaScript, HTML/CSS, and Bootstrap for the frontend, with Flask backend supporting form detection and bilingual support.
+Tech: JavaScript, Chrome API, Flask, Bootstrap
+GitHub: https://github.com/anilbk10/ease_form
+
+IMS System
+Inventory Management System built with modern technologies. A comprehensive solution for managing inventory operations efficiently with a user-friendly interface.
+Tech: MERN Stack, React, Node.js, MongoDB
+
+Other Projects:
+- Weather App
+- Path Finder
+- Music Player
+
+ATTRIBUTES
+- Problem-solving skills
+- Team-oriented and collaborative
+- Good communication skills
+- Quick learner
+
+TECHNOLOGIES
+- MERN Stack (MongoDB, Express, React, Node.js,Nest.js)
+- Intermediate: C++, Python
+- Basic: C, Java
+- Languages: C, C++, JavaScript, Java, TypeScript, Python
+- Frontend: React, HTML/CSS, Bootstrap, Tailwind CSS
+- Backend: Nest.js, Node.js, Express.js, Flask
+- Database: MongoDB
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (SAA-C03)
+
