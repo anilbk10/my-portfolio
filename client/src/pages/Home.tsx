@@ -35,6 +35,14 @@ export default function Home() {
       github: "https://github.com/anilbk10/ease_form",
       icon: Code2,
     },
+        {
+      title: "AWS Solutions Architect Practice Exam",
+      description: "A React-based quiz application designed to help users practice for the AWS Certified Solutions Architect – Associate exam. Features AWS Solutions Architect–style practice questions with a clean, earthy theme for a comfortable learning experience. Perfect for self-study and exam revision.",
+      tech: ["React", "Vite", "JavaScript"],
+      link: "https://github.com/anilbk10/Solutions-Architect-Practice-Exam",
+      github: "https://github.com/anilbk10/Solutions-Architect-Practice-Exam",
+      icon: Award,
+    },
     {
       title: "IMS System",
       description: "Inventory Management System built with modern technologies. A comprehensive solution for managing inventory operations efficiently with a user-friendly interface.",
@@ -43,6 +51,7 @@ export default function Home() {
       github: "https://github.com/anilbk10",
       icon: Briefcase,
     },
+
   ];
 
   const otherProjects = [
