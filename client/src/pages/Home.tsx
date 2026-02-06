@@ -566,7 +566,7 @@ I focus on designing and developing efficient, scalable, and user-centric softwa
       {/* Footer */}
       <footer className="bg-primary text-primary-foreground py-8">
         <div className="container text-center">
-          <p className="mb-2">© 6 Anil BK. All rights reserved.</p>
+          <p className="mb-2">© 2026 Anil BK. All rights reserved.</p>
           <p className="text-sm opacity-80">Designed with care | Built with React & TailwindCSS</p>
           <div className="mt-4 flex justify-center gap-4">
             <a href="https://github.com/anilbk10" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition-opacity">
